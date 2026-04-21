@@ -5,7 +5,7 @@ Simple chessboard detection using OpenCV
 main.py captures a screenshot of all monitors.
 
 ```
-python main.py [--debug]
+python main.py [--image_show] [--image_save]
 ```
 
-use the `--debug` argument to generate debug images.
+use `--image_show` to show and `--image_save` to save generated images.
